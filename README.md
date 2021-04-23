@@ -39,3 +39,7 @@ Non-YouTube sources:
 - https://stackoverflow.com/questions/42735837/git-bash-remote-error-you-cant-push-to-git-github-com
 - https://stackoverflow.com/questions/37937984/git-refusing-to-merge-unrelated-histories-on-rebase
 - https://stackoverflow.com/questions/1709177/git-pull-a-certain-branch-from-github
+- https://manpages.debian.org/stretch/qemu-system-x86/qemu-system-i386.1.en.html
+- https://www.cse.iitd.ernet.in/~sbansal/os/previous_years/2014/lec/l3-hw1.html
+- https://askubuntu.com/questions/138140/how-do-i-install-qemu
+- https://pdos.csail.mit.edu/6.828/2017/xv6.html
