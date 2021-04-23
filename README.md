@@ -21,16 +21,21 @@ The function returns the number of read() system calls made while the qemu has b
 
 For sources, I basically watched every sinlge YouTube video I could relating to xv6.
 For the most part I followed this video:
-https://www.youtube.com/watch?v=Hl_t6BEBJko
+- https://www.youtube.com/watch?v=Hl_t6BEBJko
+
+
 
 Other videos include:
-https://www.youtube.com/watch?v=ktkAlbcoz7o
-https://www.youtube.com/watch?v=21SVYiKhcwM
-https://www.youtube.com/watch?v=84OksVCw0AU
-https://www.youtube.com/watch?v=qZ16UodDlz8
+
+- https://www.youtube.com/watch?v=ktkAlbcoz7o
+- https://www.youtube.com/watch?v=21SVYiKhcwM
+- https://www.youtube.com/watch?v=84OksVCw0AU
+- https://www.youtube.com/watch?v=qZ16UodDlz8
+
 
 
 Non-YouTube sources:
-https://stackoverflow.com/questions/42735837/git-bash-remote-error-you-cant-push-to-git-github-com
-https://stackoverflow.com/questions/37937984/git-refusing-to-merge-unrelated-histories-on-rebase
-https://stackoverflow.com/questions/1709177/git-pull-a-certain-branch-from-github
+
+- https://stackoverflow.com/questions/42735837/git-bash-remote-error-you-cant-push-to-git-github-com
+- https://stackoverflow.com/questions/37937984/git-refusing-to-merge-unrelated-histories-on-rebase
+- https://stackoverflow.com/questions/1709177/git-pull-a-certain-branch-from-github
