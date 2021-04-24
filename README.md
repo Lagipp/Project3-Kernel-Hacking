@@ -4,11 +4,11 @@ Project 3 of 3 of the practical work assignments for the course CT30A3370 Käytt
 
 Not being comfortable around GitHub (and having no idea how cloning repositories works), I made a big mistake somewhere, so there seem to be 1000+ commits on the program. Also a plethora of contributors who I've never met nor know who they are. Sorry about that. This was a one-man project.
 
-There are also two files, from which you should only care about the "xv6" -named one. That is, don't touch the one that says "DON'T TOUCH".
+There are also two folders, from which you should only care about the "xv6" -named one. That is, don't touch the one that says "DON'T TOUCH".
 
 Even with my ineptitude with computers, the program works.
 
-To use the program (more like a function) getreadcount():
+To use the program (/function?) getreadcount():
 
 1)    Move into the ./xv6 folder and open terminal
 2)    Type 'make qemu' into the terminal to open qemu
@@ -16,6 +16,7 @@ To use the program (more like a function) getreadcount():
 
 The function returns the number of read() system calls made while the qemu has been on.
 
+I couldn't/didn't dare to add documentation straight into the files in fear of breaking something, so I'm hoping this wall of text suffices.
 
 **SOURCES:**
 
