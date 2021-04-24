@@ -18,6 +18,8 @@ The function returns the number of read() system calls made while the qemu has b
 
 I couldn't/didn't dare to add documentation straight into the files in fear of breaking something, so I'm hoping this wall of text suffices.
 
+----------------------------------------------------------------------------------------------------------------------------
+
 **SOURCES:**
 
 For sources, I basically watched every sinlge YouTube video I could relating to xv6.
